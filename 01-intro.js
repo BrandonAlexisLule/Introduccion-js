@@ -1,5 +1,5 @@
  // Imprimir mensajes
-console.log('Hola Cinepolis')
+console.log('Hola Gente Como Estan')
 
 //Declarar variables
 var saludar = 'Hola'
