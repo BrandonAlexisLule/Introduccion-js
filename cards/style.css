@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&family=Inter:wght@300&family=Montserrat:wght@300&family=Oswald:wght@300&display=swap');
+
+body {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif; 
+    background-color: #fffbe2;
+    margin: 0;
+    padding: 0;
+}
+
+.cabecera {
+    background-color: #33100d;
+    color: #e2e2e2;
+    padding: 80px;
+    font-size: x-large;
+    text-align: center;
+}
+
+/* Abarca cada una de las cajas de Texto */
+.card{
+    /*El display alinea las cajas en filas y columnas*/
+    width: 30%;
+    height: 30%;
+    display:inline-block;
+    background-color: #cb9756;
+    box-shadow: 14px 14px 20px 0 rgba(0, 0, 0, 0.7);
+    border-radius: 20px;
+
+}
+
+/* Abarca todas las imágenes */
+.card-avatar{
+    margin-left: 85px;
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    border-radius: 100px;
+}
+
+.card-info{
+    font-size: 30px;
+    padding: 30px;
+    padding-top: 40px;
+}
+
+.card-title{
+    font-size:xx-large;
+}
+
+.card-subtitle{
+    font-size: medium;
+}
+
+.card-group{
+    font-size:xx-large;
+}

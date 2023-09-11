@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Montserrat:wght@200&family=Oswald&family=Quicksand&family=Titillium+Web:wght@300&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vm;
+    color: orangered;
+    background-color: indigo;
+
+}
+
+header h2{
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    margin: 20px;
+    text-align: center;
+}
+
+form{
+    display: flex; 
+    flex-direction: column;
+
+}
+
+.item{
+    margin-bottom: 20px;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.item label {
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.item input {
+    padding: 2px;
+    border-radius: 10px;
+    border: none;
+}
+
+.item button{
+    width: 100%;
+
+}

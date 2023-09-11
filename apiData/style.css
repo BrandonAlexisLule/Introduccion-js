@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&family=Inter:wght@300&family=Jost:ital,wght@0,100;1,300&family=Montserrat:wght@300&family=Oswald:wght@300&display=swap');
+
+body {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Jost', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3eae8;
+}
+
+header{
+    background-color: #271207;
+    color: #f3eae8;
+    padding: 20px;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.box-address{
+    display: inline-block;
+    background-color: #847770; 
+    padding-left: 25px;
+    padding-right: 30px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 14px 14px 20px 0 rgba(0, 0, 0, 0.7);
+}
+
+.profile-avatar{
+    margin-top: 40px;
+    margin-left: 120px;
+    box-shadow: 14px 14px 20px 0 rgba(0, 0, 0, 0.7);
+    width: 150px;
+    height: 150px;
+}
+
+.address-information{
+    font-size: x-large;
+    color: #f3eae8;
+    margin: 30px;
+}

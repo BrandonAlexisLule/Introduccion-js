@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&family=Inter:wght@300&family=Montserrat:wght@300&family=Oswald:wght@300&display=swap');
+/* Resto de documento */
+body {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;    
+    margin: 0;
+    padding: 0;
+    background-color: #78767b; 
+}
+
+/* Título */ 
+h1{
+    background-color: #1e1732;
+    color: #fff;
+    margin: 0;
+    padding: 3%;
+    text-align: center;
+    font-size: 50px;
+}
+
+p{
+    text-align: center;
+    margin-top: 0;
+    
+}
+
+input{
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif; 
+    font-size: x-large; 
+    background-color: #ffedff;
+    border-radius: 10px;
+    border: none;
+    color: #101a35;
+    font-weight: bolder;
+    width: 92%;
+    height: 50px;
+    margin: 50px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+button {
+    background-color: #ffedff;
+    color: #101a35;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;  
+    font-weight: bolder;
+    font-size: x-large;
+    width: 92%;
+    height: 50px;
+    margin: 50px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;  
+    color: #ffedff;
+    background-color: #101a35;
+}

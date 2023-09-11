@@ -10,7 +10,7 @@ var booleano = true
 var booleano2 = false
 console.log(typeof booleano, typeof booleano2)
 
-//NaN eJEMPLO
+//Ejemplo de NAN
 var nan_ejemplo = 0/0
 console.log(nan_ejemplo)
 
@@ -22,4 +22,5 @@ console.log(typeof notDefine)
 
 //String 
 var string = 1; var string2 = 2
-console.log((((((((((((((string + string2))))))))))))))
+console.log(string + string2)
+
