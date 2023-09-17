@@ -22,8 +22,12 @@ h1{
 
 p{
     text-align: center;
-    margin-top: 0;
-    
+    background-color: #00f0ff;  
+    padding-top: 30px;
+    width: 92%;
+    height: 50px;
+    margin: 50px;
+    border-radius: 10px;  
 }
 
 input{

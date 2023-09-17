@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&family=Inter:wght@300&family=Jost:ital,wght@0,100;1,300&family=Montserrat:wght@300&family=Oswald:wght@300&display=swap');
+
+body {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Jost', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+
+

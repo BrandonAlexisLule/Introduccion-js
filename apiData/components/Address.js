@@ -15,5 +15,4 @@ function Address({personal_info: {address, phone_number, zipcode}, employee_name
     `
     return addressInf
 }
-
 export default Address
